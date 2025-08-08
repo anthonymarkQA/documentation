@@ -20,3 +20,4 @@ Active development on the OpenSPP Documentation takes place on the branch [`main
 ## License
 
 The project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) by [Newlogic](https://newlogic.com).
+# Restoring original main
